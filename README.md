@@ -10,7 +10,7 @@ A computational analysis exploring how **psychological stress** and **gut microb
 
 ## Overview
 
-This repository contains a Jupyter Notebook (`main.ipynb`) that performs a comparative gene expression analysis using **microarray datasets** from the NCBI Gene Expression Omnibus (GEO).  
+This repository contains a Jupyter Notebook ('main.ipynb') that performs a comparative gene expression analysis using **microarray datasets** from the NCBI Gene Expression Omnibus (GEO).  
 It is designed for **biologists, bioinformaticians, and computational scientists** investigating host–microbiome interactions, stress biology, or adrenal signaling pathways.
 
 ---
@@ -18,11 +18,11 @@ It is designed for **biologists, bioinformaticians, and computational scientists
 ## Datasets Used
 
 ### **1. GSE122754**  
-*“Absence of gut microbial colonization attenuates the sympathoadrenal response to hypoglycemia in mice”*  
+Absence of gut microbial colonization attenuates the sympathoadrenal response to hypoglycemia in mice  
 **Authors:** Giri P. et al.
 
 ### **2. GSE253827**  
-*“Psychological Stress-Induced Systemic Corticosterone Directly Sabotages Intestinal Stem Cell Activity”*  
+Psychological Stress-Induced Systemic Corticosterone Directly Sabotages Intestinal Stem Cell Activity  
 **Authors:** Sheng X. et al.
 
 These datasets enable parallel investigation of:
