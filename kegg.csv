@@ -1,0 +1,4 @@
+"Category","Term","Genes","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact"
+"KEGG_PATHWAY","Regulation of lipolysis in adipocytes","12.50%","2","9","57","9565","4.67e-2","1.00e+0","37.29","8.66e-1","1.00e+0","1.22e-3"
+"KEGG_PATHWAY","Ovarian steroidogenesis","12.50%","2","9","64","9565","5.23e-2","1.00e+0","33.21","8.95e-1","1.00e+0","1.54e-3"
+

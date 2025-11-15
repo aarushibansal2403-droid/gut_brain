@@ -1,0 +1,4 @@
+"Category","Term","Genes","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact"
+"REACTOME_PATHWAY","G alpha (s) signalling events","12.50%","2","7","139","9277","8.66e-2","1.00e+0","19.07","1.00e+0","1.00e+0","4.46e-3"
+"REACTOME_PATHWAY","Clathrin-mediated endocytosis","12.50%","2","7","142","9277","8.84e-2","1.00e+0","18.67","1.00e+0","1.00e+0","4.65e-3"
+
