@@ -22,12 +22,12 @@ Absence of gut microbial colonization attenuates the sympathoadrenal response to
 **Authors:** Giri P. et al.
 
 ### **2. GSE253827**  
-Psychological Stress-Induced Systemic Corticosterone Directly Sabotages Intestinal Stem Cell Activity  
+Psychological Stress Induced Systemic Corticosterone Directly Sabotages Intestinal Stem Cell Activity  
 **Authors:** Sheng X. et al.
 
 These datasets enable parallel investigation of:
 
-- Effects of **germ-free (GF)** status on adrenal gene expression  
+- Effects of **germ free (GF)** status on adrenal gene expression  
 - Effects of **psychological stress** on adrenal and intestinal pathways  
 
 
@@ -37,7 +37,7 @@ To determine how:
 
 1. **Absence of gut microbiota** affects adrenal gene expression  
 2. **Psychological stress** downregulates key adrenal or systemic regulatory genes  
-3. Identify **common pathways** disrupted in both conditions to gain insight into the **gut–brain axis**
+3. Identify **common pathways** disrupted in both conditions to gain insight into the **gut-brain axis**
 
 
 ## Background
@@ -50,11 +50,11 @@ The gut microbiome influences:
 - Metabolic homeostasis  
 - Stress adaptation  
 
-Germ-free mice—a model lacking all microbial exposure—provide a clean system to isolate microbe-driven transcriptional changes.
+Germ-free mice, a model lacking all microbial exposure provide a clean system to isolate microbe-driven transcriptional changes.
 
 Psychological stress triggers corticosterone release and impacts peripheral tissues, including adrenal and intestinal cells.
 
-This study integrates both aspects to highlight **microbiome–stress interactions**.
+This study integrates both aspects to highlight **microbiome stress interactions**.
 
 
 ## Data Description
@@ -123,7 +123,7 @@ Visualization of results is done in the notebook.
 - Several genes involved in neuroendocrine function appear microbially regulated  
 
 ### **2. Control vs Stressed Mice**
-- Enrichment in **circadian rhythm processes**, suggesting stress-induced chronobiology disruption  
+- Enrichment in **circadian rhythm processes**, suggesting stress induced chronobiology disruption  
 - Altered expression in genes associated with adrenal and metabolic regulation  
 
 ### **3. Common Pathways**
@@ -173,5 +173,5 @@ to reproduce the workflow and generate figures and enrichment plots.
 
 ## Final Note
 
-This project provides a foundational computational framework for exploring connections between **microbiota**, **stress**, and **adrenal signaling**—a key axis in gut–brain research.
+This project provides a foundational computational framework for exploring connections between **microbiota**, **stress**, and **adrenal signaling** - a key axis in gut–brain research.
 
