@@ -1,6 +1,6 @@
 # Gut–Brain Axis Analysis: Microbiota, Stress & Adrenal Gene Expression
 
-A computational analysis exploring how **psychological stress** and **gut microbiota composition** influence the **adrenal response** in mice.
+This project was designed and executed independently to explore host-microbiome interactions using publicly available transcriptomic datasets.
 
 **Author:** Aarushi Bansal  
 **Date:** 15 November 2025  
